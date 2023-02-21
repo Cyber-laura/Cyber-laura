@@ -7,7 +7,7 @@
 
 * 📫 How to reach me: **brmd.laura@gmail.com**
 
-* 📄 Know about my experiences [cv-laura-bremaud](https://www.canva.com/design/DAE56zvMJXA/P4ZqVlv_5XBGDrGu9E9y2g/view)
+* 📄 Know about my experiences [cv-laura-bremaud](https://www.canva.com/design/DAE56zvMJXA/P4ZqVlv_5XBGDrGu9E9y2g/view?utm_content=DAE56zvMJXA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### Connect with me :
 <a href="https://www.linkedin.com/in/laura-br%C3%A9maud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauraBremaud" height="30" width="40" /></a>
